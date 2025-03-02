@@ -14,7 +14,7 @@ This project implements the Electrical Impedance Tomography Analysis Code (EITAC
 - NumPy
 - Matplotlib
 ## Usage
-1. Run the [eitac.py](http://_vscodecontentref_/0) script:
+1. Run the [eitac.py](https://github.com/IntiToalombo/eit/blob/main/eit_breast_image_reconstruction/eitac.py) script:
     ```sh
     python eitac.py
     ```
